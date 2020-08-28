@@ -32,3 +32,9 @@ There are four areas of work
 @ulend
 
 ---
+
+#### This means
+
+Instead of building skyscraper left-to-right, we build bottom to top.
+
+We want to cut things off ASAP.  MVP.
